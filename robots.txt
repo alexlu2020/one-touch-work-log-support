@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexlu2020.github.io/one-touch-work-log-support/sitemap.xml
